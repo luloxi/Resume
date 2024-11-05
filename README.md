@@ -1,5 +1,5 @@
 # Luciano Oliva Bianco
-**Email**: lucianoolivabianco@gmail.com  
+**Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
 Web3 applications developer and security researcher.
 
 ---
@@ -14,7 +14,7 @@ Web3 applications developer and security researcher.
 
 ## Experience
 
-Security reviews I've done: https://github.com/luloxi/security-reviews
+Security reviews I've done: [GitHub Repository](https://github.com/luloxi/security-reviews)
 
 ### Full Stack Developer at BuidlGuidl
 **04/2023 - Present**
@@ -22,22 +22,22 @@ Security reviews I've done: https://github.com/luloxi/security-reviews
 dApps development using Scaffold-ETH 2 as a starting template.
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
-  Project: https://punksociety.xyz, GitHub: https://github.com/luloxi/PunkSociety
+  [Project](https://punksociety.xyz) | [GitHub](https://github.com/luloxi/PunkSociety)
   
 - Developed **BasedShop**, an e-commerce dApp to enable direct sales without intermediaries, participated in the Base Around The World Hackathon 2024.  
-  Project: https://basedshop.vercel.app, GitHub: https://github.com/luloxi/BasedShop
+  [Project](https://basedshop.vercel.app) | [GitHub](https://github.com/luloxi/BasedShop)
   
 - Developed **Technai**, an NFT marketplace focused on small artists, awarded runner-up and honorable mention at the Crecimiento Aleph Hackathon 2024.  
-  GitHub: https://github.com/luloxi/technai-marketplace
+  [GitHub](https://github.com/luloxi/technai-marketplace)
   
 - Developed **Easy2Pay**, a dApp for USD-fixed payments using multiple tokens.  
-  Project: https://easy2pay.vercel.app, GitHub: https://github.com/luloxi/Easy2Pay
+  [Project](https://easy2pay.vercel.app) | [GitHub](https://github.com/luloxi/Easy2Pay)
   
-- Developed **Sportsbook**, a sports dApp allowing teams to bet and referees to set results, awarded first place at the Think and Dev Hackathon 2022.  
-  GitHub: https://github.com/luloxi/Sportsbook
+- Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022.  
+  [GitHub](https://github.com/luloxi/Sportsbook)
   
-- Authored **Newbies Lounge**, an introductory article for building ETH dApps.  
-  Article: https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878
+- Authored **Newbies Lounge**, an introductory article on building Ethereum dApps.  
+  [Article](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878)
 
 ### Multimedia Developer at FEDUN (University Teachers Union)
 **04/2015 - 02/2020**
