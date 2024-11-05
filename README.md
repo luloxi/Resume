@@ -1,5 +1,5 @@
 # Luciano Oliva Bianco
-**Email**: [lucianoolivabianco@gmail.com](mailto:lucianoolivabianco@gmail.com)  
+**Email**: lucianoolivabianco@gmail.com  
 Web3 applications developer and security researcher.
 
 ---
@@ -14,37 +14,37 @@ Web3 applications developer and security researcher.
 
 ## Experience
 
-Security reviews I've done: [https://github.com/luloxi/security-reviews](https://github.com/luloxi/security-reviews)
+Security reviews I've done: https://github.com/luloxi/security-reviews
 
-### BuidlGuidl | Fullstack Developer
-**April 2023 - Present**
+### Full Stack Developer at BuidlGuidl
+**04/2023 - Present**
 
 dApps development using Scaffold-ETH 2 as a starting template.
 
-- Built **PunkSociety**, a social dApp with monetized interactions that runs on its own Avalanche L1, and won third place in Avalanche Summit Hackathon 2024.  
-  [https://punksociety.xyz/](https://punksociety.xyz/) | [GitHub](https://github.com/luloxi/PunkSociety)
+- Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
+  Project: https://punksociety.xyz, GitHub: https://github.com/luloxi/PunkSociety
   
-- Built **BasedShop**, an e-commerce dApp to sell without intermediaries, and participated in Base Around The World Hackathon 2024.  
-  [https://basedshop.vercel.app/](https://basedshop.vercel.app/) | [GitHub](https://github.com/luloxi/BasedShop)
+- Developed **BasedShop**, an e-commerce dApp to enable direct sales without intermediaries, participated in the Base Around The World Hackathon 2024.  
+  Project: https://basedshop.vercel.app, GitHub: https://github.com/luloxi/BasedShop
   
-- Built **Technai**, an NFT marketplace with a focus on small artists, and won a runner-up prize and an honorable mention in Crecimiento Aleph Hackathon 2024.  
-  [GitHub](https://github.com/luloxi/technai-marketplace)
+- Developed **Technai**, an NFT marketplace focused on small artists, awarded runner-up and honorable mention at the Crecimiento Aleph Hackathon 2024.  
+  GitHub: https://github.com/luloxi/technai-marketplace
   
-- Built **Easy2Pay**, a dApp for payments for a fixed value in USD using different tokens.  
-  [https://easy2pay.vercel.app/](https://easy2pay.vercel.app/) | [GitHub](https://github.com/luloxi/Easy2Pay)
+- Developed **Easy2Pay**, a dApp for USD-fixed payments using multiple tokens.  
+  Project: https://easy2pay.vercel.app, GitHub: https://github.com/luloxi/Easy2Pay
   
-- Built **Sportsbook**, a sports dApp where two teams can bet, and a referee sets the result and distributes the prize, winning first place in Think and Dev Hackathon 2022.  
-  [GitHub](https://github.com/luloxi/Sportsbook)
+- Developed **Sportsbook**, a sports dApp allowing teams to bet and referees to set results, awarded first place at the Think and Dev Hackathon 2022.  
+  GitHub: https://github.com/luloxi/Sportsbook
   
-- Wrote the **Newbies Lounge** article, an article to learn ETH dApp building.  
-  [https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878](https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878)
+- Authored **Newbies Lounge**, an introductory article for building ETH dApps.  
+  Article: https://lulox.notion.site/Newbies-Lounge-68ea7c4c5f1a4ec29786be6a76516878
 
-### FEDUN (University teachers union) | Multimedia Developer
-**April 2015 - February 2020**
+### Multimedia Developer at FEDUN (University Teachers Union)
+**04/2015 - 02/2020**
 
-- **Web**: LAMP server setup for Moodle and WordPress. Layout design in WordPress using Elementor, with ongoing performance and SEO optimization. UX/UI optimization based on data from Google Analytics.
-- **Social media**: Creation and scheduling of content for Facebook, Twitter, Instagram, and YouTube, using Adobe Photoshop, Adobe Premiere, Canva, and other online tools.
-- **Teamwork**: Trainer in new technologies. Team coordination (Trello).
+- **Web**: Set up LAMP servers for Moodle and WordPress, designed layouts in WordPress using Elementor, and performed ongoing performance and SEO optimizations. Improved UX/UI with data from Google Analytics.
+- **Social Media**: Created and scheduled content for Facebook, Twitter, Instagram, and YouTube using Adobe Photoshop, Adobe Premiere, Canva, and other tools.
+- **Teamwork**: Trained staff in new technologies and coordinated team projects using Trello.
 
 ---
 
@@ -53,11 +53,11 @@ dApps development using Scaffold-ETH 2 as a starting template.
 ### Formal Education (2024 - Present)
 
 - **UBA Exactas (Computer Science)**  
-  Studying software engineering, algorithms, data structures, and algebra.
+  Coursework includes software engineering, algorithms, data structures, and algebra.
 
 ### Online Education (2022 - Present)
 
-- **freeCodeCamp**: Specialized in full stack development, including React, TypeScript, Next.js, Node.js, and TailwindCSS, with practical experience in developing web apps.
-- **Speedrun Ethereum**: Learned Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi for web and blockchain interactions.
-- **Blockchain Security Academy**: Graduated with an 87/100. Learned to detect, exploit, and secure against various blockchain vulnerabilities using Hardhat, with hands-on exercises.
-- **Cyfrin Updraft**: Learned advanced Foundry usage, smart contracts security, core blockchain concepts, and cryptography principles.
+- **freeCodeCamp**: Specialized in full-stack development, including React, TypeScript, Next.js, Node.js, and TailwindCSS, with hands-on experience in web app development.
+- **Speedrun Ethereum**: Trained in Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi.
+- **Blockchain Security Academy**: Graduated with a score of 87/100. Studied blockchain vulnerabilities and secure coding practices with Hardhat.
+- **Cyfrin Updraft**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
