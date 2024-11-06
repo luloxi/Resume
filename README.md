@@ -42,8 +42,9 @@ dApps development using Scaffold-ETH 2 as a starting template.
 ### Multimedia Developer at FEDUN (University Teachers Union)
 **04/2015 - 02/2020**
 
-- **Web**: Set up LAMP servers for Moodle and WordPress, designed layouts in WordPress using Elementor, and performed ongoing performance and SEO optimizations. Improved UX/UI with data from Google Analytics.
-- **Social Media**: Created and scheduled content for Facebook, Twitter, Instagram, and YouTube using Adobe Photoshop, Adobe Premiere, Canva, and other tools.
+- **Web development**: Set up LAMP servers for Moodle and WordPress, designed layouts in WordPress using Elementor, and performed ongoing performance and SEO optimizations. Improved UX/UI with data from Google Analytics. Implemented accesibility following the ARIA standard.
+- **Social Media**: Created and scheduled content for Facebook, Twitter, Instagram, and YouTube using Adobe Photoshop, Adobe Premiere, Canva, and other tools. 
+- **E-mail marketing**: Created and scheduled email weekly news and marketing campaigns using Mailchimp.
 - **Teamwork**: Trained staff in new technologies and coordinated team projects using Trello.
 
 ---
