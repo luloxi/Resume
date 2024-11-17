@@ -53,8 +53,14 @@ dApps development using Scaffold-ETH 2 as a starting template.
 
 - **IT support**: Fixed issues with computers and network connectivity in the office.
 - **Customer support**: Incident response for website and other service issues via emails
-- **Ticketing system**: Assignated incidents a priority and handled the priority list according to rules.
+- **Ticketing system**: Assignated incoming incidents a priority and handled the priority list according to rules.
 - **SQL data handling**: Research on incidents and failed claims on databases using SQL queries.
+
+### Remote Technical Support at Garbarino (Electronic appliances)
+**06/2013 - 11/2013**
+
+- **Customer support**: Incident response for appliances failing or hardware issues on store via emails
+- **Ticketing system**: Got assigned incidents with JIRA to solve or escalate with a deadline.
 
 ---
 
