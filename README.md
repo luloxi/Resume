@@ -51,6 +51,7 @@ dApps development using Scaffold-ETH 2 as a starting template.
 ### Technical Support at LATAM Pass (Airline benefits)
 **02/2014 - 11/2014**
 
+- **IT support**: Fixed issues with computers and network connectivity in the office.
 - **Customer support**: Incident response for website and other service issues via emails
 - **Ticketing system**: Assignated incidents a priority and handled the priority list according to rules.
 - **SQL data handling**: Research on incidents and failed claims on databases using SQL queries.
