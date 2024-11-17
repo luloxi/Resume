@@ -16,7 +16,7 @@ Web3 applications developer and security researcher.
 
 Security reviews I've done: [GitHub Repository](https://github.com/luloxi/security-reviews)
 
-### Full Stack Developer at BuidlGuidl
+### Full Stack Developer at BuidlGuidl (Ethereum builders DAO)
 **04/2023 - Present**
 
 dApps development using Scaffold-ETH 2 as a starting template.
