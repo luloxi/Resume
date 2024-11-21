@@ -23,13 +23,7 @@ dApps development using Scaffold-ETH 2 as a starting template.
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
   [Project](https://punksociety.xyz/about) | [GitHub](https://github.com/luloxi/PunkSociety)
-  
-- Developed **BasedShop**, an e-commerce dApp to enable direct sales without intermediaries, participated in the Base Around The World Hackathon 2024.  
-  [Project](https://basedshop.vercel.app) | [GitHub](https://github.com/luloxi/BasedShop)
-  
-- Developed **Technai**, an NFT marketplace focused on small artists, awarded runner-up and honorable mention at the Crecimiento Aleph Hackathon 2024.  
-  [GitHub](https://github.com/luloxi/technai-marketplace)
-  
+   
 - Developed **Easy2Pay**, a dApp for USD-fixed payments using multiple tokens.  
   [Project](https://easy2pay.vercel.app) | [GitHub](https://github.com/luloxi/Easy2Pay)
   
