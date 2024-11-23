@@ -23,10 +23,7 @@ dApps development using Scaffold-ETH 2 as a starting template.
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
   [Project](https://punksociety.xyz/about) | [GitHub](https://github.com/luloxi/PunkSociety)
-   
-- Developed **Easy2Pay**, a dApp for USD-fixed payments using multiple tokens.  
-  [Project](https://easy2pay.vercel.app) | [GitHub](https://github.com/luloxi/Easy2Pay)
-  
+    
 - Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022.  
   [GitHub](https://github.com/luloxi/Sportsbook)
   
