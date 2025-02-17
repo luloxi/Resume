@@ -6,9 +6,9 @@ Web3 applications developer and security researcher.
 
 ## Technologies
 
-- **Smart Contracts**: Solidity, Foundry, Hardhat, Scaffold-ETH 2, Slither, Aderyn
+- **Smart Contracts**: Solidity, Foundry, Hardhat, Scaffold-ETH 2
 - **Frontend**: Typescript, React, Next.js, TailwindCSS, Wagmi, Viem
-- **Backend**: Node.js, GraphQL, Firebase, MongoDB, Docker, BASH, Linux
+- **Backend**: Node.js, Linux
 
 ---
 
