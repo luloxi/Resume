@@ -55,16 +55,10 @@ dApps development using Scaffold-ETH 2 as a starting template.
 
 ---
 
-## Education
+## Education (2022 - Present)
 
-### Formal Education (2024 - Present)
-
-- **UBA Exactas (Computer Science)**  
-  Coursework includes software engineering, algorithms, data structures, and algebra.
-
-### Online Education (2022 - Present)
-
-- **freeCodeCamp**: Specialized in full-stack development, including React, TypeScript, Next.js, Node.js, and TailwindCSS, with hands-on experience in web app development.
-- **Speedrun Ethereum**: Trained in Ethereum dApp programming with Scaffold-ETH 2, Solidity, RainbowKit, Viem, and Wagmi.
-- **Blockchain Security Academy**: Graduated with a score of 87/100. Studied blockchain vulnerabilities and secure coding practices with Hardhat.
-- **Cyfrin Updraft**: Advanced training in Foundry, smart contract security, blockchain fundamentals, and cryptography principles.
+- **[The Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)**: Introduction to the essential tools to build real, working websites.
+- **[freeCodeCamp](http://freecodecamp.org/)**: Hands-on experience in web app development with React, TypeScript, Next.js, TailwindCSS and Node.js.
+- **[Speedrun Ethereum](https://speedrunethereum.com/)**: Ethereum dApp programming with Scaffold-ETH 2 with Solidity smart contracts.
+- **[Cyfrin Updraft](https://www.cyfrin.io/updraft)**: Foundry, Solidity security, blockchain fundamentals, and cryptography principles.
+- **[Blockchain Security Academy](https://smartcontractshacking.com/)**: Smart contract vulnerabilities and secure coding practices with Hardhat.
