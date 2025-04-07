@@ -22,6 +22,7 @@ Security reviews I've done: [GitHub Repository](https://github.com/luloxi/securi
 dApp development using Solidity and NextJs
 
 - Developed **SAMI**, a game where you have to find the AI infiltrator in a group chat, qualifying for a Mantle and a ZkSync hackathon.
+
   [Project](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami)
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
