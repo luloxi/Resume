@@ -16,13 +16,21 @@ Web3 applications developer and security researcher.
 
 Security reviews I've done: [GitHub Repository](https://github.com/luloxi/security-reviews)
 
-### Full Stack Developer at BuidlGuidl (Ethereum builders DAO)
-**04/2023 - 06/2024**
+### Independent Web3 Developer
+**06/2024 - Present**
 
-dApps development using Scaffold-ETH 2 as a starting template.
+dApp development using Solidity and NextJs
+
+- Developed **SAMI**, a game where you have to find the AI infiltrator in a group chat, qualifying for a Mantle and a ZkSync hackathon.
+  [Project](https://playsami.fun/) | [GitHub](https://github.com/fabian416/sami)
 
 - Developed **PunkSociety**, a social dApp with monetized interactions on its own Avalanche L1, achieving third place in the Avalanche Summit Hackathon 2024.  
   [Project](https://punksociety.xyz/about) | [GitHub](https://github.com/luloxi/PunkSociety)
+
+### Full Stack Web3 Developer at BuidlGuidl (Ethereum builders DAO)
+**04/2023 - 06/2024**
+
+dApps development using Scaffold-ETH 2 as a starting template.
     
 - Developed **Sportsbook**, a sports dApp allowing teams to bet, with a referee setting results and distributing prizes, awarded first place at the Think and Dev Hackathon 2022.  
   [GitHub](https://github.com/luloxi/Sportsbook)
